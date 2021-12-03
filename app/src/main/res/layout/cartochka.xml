@@ -8,8 +8,8 @@
         android:id="@+id/cardvi"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_margin="10dp"
-        android:backgroundTint="#F1F1F1"
+        android:layout_margin="5dp"
+        android:backgroundTint="#E6F1F1F1"
         app:cardCornerRadius="20dp">
 
         <LinearLayout
@@ -26,8 +26,8 @@
 
                 <ImageView
                     android:id="@+id/img"
-                    android:layout_width="100dp"
-                    android:layout_height="100dp"
+                    android:layout_width="110dp"
+                    android:layout_height="110dp"
                     android:scaleType="fitXY"
                      />
             </androidx.cardview.widget.CardView>
